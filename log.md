@@ -1,30 +1,33 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 7: Jan 3, 2017 
+**Today's Progress**: I think I've got working prototype for *Build a Personal Portfolio Webpage* project. Happy with progress so far.
+**Link to work:** [FCC - Build a Personal Portfolio Webpage - Codepend Showcase](http://codepen.io/rkadam/full/QdbBPJ/)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 6: Jan 3, 2017 
+**Today's Progress**: Started work on *Build a Personal Portfolio Webpage* Project. Struggling with css. Gaining more understanding about Bootstrap 3 and how it makes life easy by providing components out of box.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 5: Jan 5, 2017 
+**Today's Progress**: Started working on *Build a Tribute Page* Project. Learning more about css, Bootstrap 3 framework, CodePen.
+**Link to work:** [FCC - Build a Tribute Page - CodePen Showcase](http://codepen.io/rkadam/full/NdWVvg)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 4: Jan 4, 2017 
+**Today's Progress**: Completed first set of tutorials and now starting with Basic Front End development projects.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 3: Jan 3, 2017 
+**Today's Progress**: Starting freeCodeCamp. Going through inital tutorials.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: Jan 2, 2017 
+**Today's Progress**: Installed Sublime Text
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I've heard lot of good things about this editor, started using it. Understanding how to install packages etc. Still lot to learn...
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: Jan 1, 2017
 
+**Today's Progress**: Learn all about Z Shell and helper utilities like oh-my-zsh, z, trash 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** The more I know about Z Shell, the more I like it. It's really user friendly shell in my opinion. Things I like
+* Using "tab" one can scan through list of options available for given command. Also you can use any arrow key to select the option you want to. Very fast!
+* Write any command and then use arrow key to browse through history of it's execution.
+* Themes from oh-my-zsh. I got "cobalt2" theme from https://github.com/wesbos/Cobalt2-iterm. Forked it, updated it's documentation to add more clarity. Created and successfully merged my Pull Request of 2017! Also made changes in forked version specifically for my needs.
+* Gone through all (11 videos)[https://www.youtube.com/playlist?list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf] from (Command Line Power User)[https://commandlinepoweruser.com/]. Very helpful videos to understand z shell.
